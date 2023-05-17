@@ -10,8 +10,8 @@ body {
 }
 
 .mona-images {
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 400px; 
+    max-height: 401px;
     border: 8px solid #fff;
 }
 
